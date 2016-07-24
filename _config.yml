@@ -1,12 +1,12 @@
 # Site settings
-title: Hackerxu's Blog
-email: 468137306@qq.com
-description: "Python,HTML,CSS,Machine Leaning"
+title: BorntoGo
+email: justregisterid@gmail.com
+description: "Android,HTML,CSS,Node"
 permalink: /:year/:month/:day/:title.html
 baseurl: ""
-url: "http://hackerxu.com"
-atom-baseurl: "http://hackerxu.com"
-author: "hackerxu"
+url: "http://borntogo.github.io"
+atom-baseurl: "http://borntogo.github.io"
+author: "Kyle Yuan"
 
 # Build settings
 # permalink: date
