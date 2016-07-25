@@ -157,6 +157,29 @@ a:visited { color: #7C7C7C; }
     transform:rotateZ(360deg);
 }
 
+.padding-left-60 {
+    position: absolute;
+    padding-left: 160px;
+}
+
+.douban-icon-svg {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+
+.douban {
+    position: absolute;
+    transition: transform 0.5s ease-out;
+    top:33px;
+}
+
+
+.douban:hover{
+    transform:rotateZ(360deg);
+}
+
+
 /* Page Content styles */
 /* ----------------------------------------------------------*/
 
@@ -506,6 +529,10 @@ kbd {
     .github {
         position:static;
         transition:none;
+    }
+
+    .douban {
+        visibility: hidden;
     }
 
 }
